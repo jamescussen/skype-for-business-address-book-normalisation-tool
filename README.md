@@ -59,7 +59,7 @@
   *  Added some more error checking. 
   *  Updated Icon. 
 
-**All information on this tool can be found here: **[http://www.myskypelab.com/2015/07/skype-for-business-address-book.html](http://www.myskypelab.com/2015/07/skype-for-business-address-book.html)
+**All information on this tool can be found here: **[http://www.myteamslab.com/2015/07/skype-for-business-address-book.html](http://www.myteamslab.com/2015/07/skype-for-business-address-book.html)
 
 
  
